@@ -1,0 +1,6 @@
+{
+  "name": "SphereX",
+  "description": "SphereX - Clean, highly responsive social network with photo feed, short videos reel loop, monetizable coins ecosystem, live streaming mockup, notifications, and interactive Gemini AI Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
